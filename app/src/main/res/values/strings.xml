@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="enter_email">Enter your email\n</string>
+    <string name="enter_password">Enter your password\n</string>
+    <string name="login">Login\n</string>
+    <string name="enter_name">Enter name\n</string>
+    <string name="register">Register\n</string>
+</resources>
